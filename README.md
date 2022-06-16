@@ -4,7 +4,7 @@
 
 Let me introduce you to the Wild SQL Ecommerce project! The freshest Data Analytics project of Summer 2022!
 
-Going straight to the point, here I use MySQL Workbench to answer several real-professional-world questions by querying an Ecommerce database with simple and complex queries, ranging from single step ones to multistep queries, combining temporary tables or subqueries, using aggregate functions to make calculations and much more!
+Going straight to the point, here I use **MySQL Workbench** to complete **real-professional-world tasks** by querying an Ecommerce database with simple and complex queries, ranging from single step ones to multistep queries, combining temporary tables or subqueries, using aggregate functions to make calculations and much more!
 
 This is an alltime bargain with 100% SQL skills showoff!
 
@@ -27,7 +27,7 @@ This is an alltime bargain with 100% SQL skills showoff!
 
 1. Clone this repo.
 2. Unzip the `data.zip` folder.
-3. Open the file `data/preparing_workbench_vApril2022.sql`on MySQL
+3. Open the file `data/preparing_workbench_vApril2022.sql`on MySQL Workbench.
 4. Select the whole script and run it.
 5. Open the file `data/create_mavenfuzzyfactory_vApril2022.sql` to install the Database
 6. If you are having issues with installing the Database because of the error "2013", do the following:
