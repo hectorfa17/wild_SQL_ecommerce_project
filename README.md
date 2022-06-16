@@ -21,7 +21,7 @@ This is an alltime bargain with 100% SQL skills showoff!
 
 ## Acknowledgements:
 
-- Thanks to John Pauler and to his amazing learning content on Udemy. CHeck all his courses [here](https://www.udemy.com/user/john-pauler/)
+- Thanks to John Pauler and to his amazing learning content on Udemy. Check all his courses [here](https://www.udemy.com/user/john-pauler/).
 
 ## Installation and use:
 
