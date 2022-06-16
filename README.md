@@ -11,7 +11,7 @@ This is an alltime bargain with 100% SQL skills showoff!
 ## Contents
 
 1. `queries.sql` - Contains all the questions and the queries made to answer such questions, you will find as well some comments along the way, explaining what I'm doing.
-2. `ERD.pdf` - Entity Relationship Diagram containing all the tables that confirm this Database, showing as well Primary and Foreign keys, as well as the data type per column.
+2. `ERD.pdf` - Entity Relationship Diagram containing all the tables that conform this Database, showing as well Primary and Foreign keys, as well as the data type per column.
 
 ## Datasets:
 
