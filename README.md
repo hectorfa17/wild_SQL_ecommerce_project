@@ -31,6 +31,6 @@ This is an alltime bargain with 100% SQL skills showoff!
 4. Select the whole script and run it.
 5. Open the file `data/create_mavenfuzzyfactory_vApril2022.sql` to install the Database
 6. If you are having issues with installing the Database because of the error "2013, do the following:
-    5.1. Go to MySQLWorkbench on the upper left corner of the screen
-    5.2. Select Preferences/Others
-    5.3. Change the Migration Connection Timeout to "6000".
+    6.1. Go to MySQLWorkbench on the upper left corner of the screen
+    6.2. Select Preferences/Others
+    6.3. Change the Migration Connection Timeout to "6000".
