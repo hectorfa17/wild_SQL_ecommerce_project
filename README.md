@@ -4,7 +4,7 @@
 
 Let me introduce you to the Wild SQL Ecommerce project! The freshest Data Analytics project of Summer 2022!
 
-Going straight to the point, here I use **MySQL Workbench** to complete **real-professional-world tasks** by querying an Ecommerce database with simple and complex queries, ranging from single step ones to multistep queries, combining temporary tables or subqueries, using aggregate functions to make calculations and much more!
+Going straight to the point, here I use **MySQL Workbench** to complete **real-world relevant tasks** by querying an Ecommerce database with simple and complex queries, ranging from single step ones to multistep queries, combining temporary tables or subqueries, using aggregate functions to make calculations and much more!
 
 This is an alltime bargain with 100% SQL skills showoff!
 
