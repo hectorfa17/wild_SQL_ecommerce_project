@@ -1,4 +1,4 @@
-![](images/banner.jpg)
+![](images/sql_readme_img.png)
 
 ## Overview
 
@@ -25,11 +25,12 @@ This is an alltime bargain with 100% SQL skills showoff!
 
 ## Installation and use:
 
-1. Clone this repo
-2. Open the file `data/preparing_workbench_vApril2022.sql`on MySQL
-3. Select the whole script and run it.
-4. Open the file `data/create_mavenfuzzyfactory_vApril2022.sql` to install the Database
-5. If you are having issues with installing the Database because of the error "2013, do the following:
+1. Clone this repo.
+2. Unzip the `data.zip` folder.
+3. Open the file `data/preparing_workbench_vApril2022.sql`on MySQL
+4. Select the whole script and run it.
+5. Open the file `data/create_mavenfuzzyfactory_vApril2022.sql` to install the Database
+6. If you are having issues with installing the Database because of the error "2013, do the following:
     5.1. Go to MySQLWorkbench on the upper left corner of the screen
     5.2. Select Preferences/Others
     5.3. Change the Migration Connection Timeout to "6000".
